@@ -1,0 +1,17 @@
+com/moshe/client/utils/CRCUtils.class
+com/moshe/client/PacketHeader.class
+com/moshe/client/Payloads$RespondFileAcceptPayload.class
+com/moshe/client/Client.class
+com/moshe/client/Payloads$RespondShareKeyPayload.class
+com/moshe/client/Crypt.class
+com/moshe/client/Main.class
+com/moshe/client/Respond.class
+com/moshe/client/Request.class
+com/moshe/client/Payloads.class
+com/moshe/client/RespondHeader.class
+com/moshe/client/RequestHeader.class
+com/moshe/client/Constants.class
+com/moshe/client/PacketHeader$RespondHeader.class
+com/moshe/client/utils/Logger.class
+com/moshe/client/PacketHeader$RequestHeader.class
+com/moshe/client/Payloads$RespondClientIDPayload.class

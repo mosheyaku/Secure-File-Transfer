@@ -1,0 +1,9 @@
+.idea/
+*.iml
+client/target/
+server/.venv/
+server/env/
+server/__pycache__/
+*.pyc
+client/.idea
+server/.idea
